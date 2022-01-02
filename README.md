@@ -11,6 +11,7 @@ Web app made with django, mongodb and vue. Makes a CRUD of employees and employe
 # Tecnologies
 * Python
 * Javascript
+* HTML5
 
 # Libraries, frameworks and data managment
 * Django
